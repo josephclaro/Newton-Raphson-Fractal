@@ -8,3 +8,7 @@ Links to Desmos projects:
 - Newton-Raphson Cobweb Diagram - https://www.desmos.com/calculator/1jthlsk0iy
 - Complex Plane Newton-Raphson Iteration - https://www.desmos.com/calculator/hos8iltvsz
 - Complex Plane Newton-Raphson Iteration with Fractal - https://www.desmos.com/calculator/oyh19qsugs
+
+![](NRFractal_x3.png)
+![](NRFractal_Misc1.png)
+![](NRFractal1.png)
